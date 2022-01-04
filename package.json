@@ -1,0 +1,15 @@
+{
+  "name": "ayushi-agrawal-portfolio",
+  "version": "1.0.0",
+  "description": "My Portfolio",
+  "main": "js/script.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Ayushi Agrawal",
+  "license": "ISC",
+  "homepage": "https://Ayushi357.githib.io/MyPortfolio",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
